@@ -1,1 +1,0 @@
-P(A) = \frac{\text{Area}(A)}{\text{Area}(\Omega)} = \frac{19\pi}{100\pi} = \frac{19}{100} = 0.19
