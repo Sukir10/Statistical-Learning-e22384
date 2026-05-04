@@ -1,0 +1,1 @@
+P(A) = \frac{\text{Favorable Length}}{\text{Total Length}} = \frac{1}{10} = 0.10
